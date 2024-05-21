@@ -386,7 +386,7 @@
 
         * Ví dụ:
             ```python
-            print(in('1245asf'))
+            print(int('1245asf'))
             ```
             Kết quả:
 
