@@ -1,4 +1,4 @@
-# CÁC HÀM PHỔ BIẾN TRONG PYTHON (SQRT, POW, FLOOR, FACTORIAL, SUM,...)
+# BÀI 7: CÁC HÀM PHỔ BIẾN TRONG PYTHON (SQRT, POW, FLOOR, FACTORIAL, SUM,...)
 
 * Muốn sử dụng những hàm có sẵn ở trong thư viện thì phải có dòng thêm thư viện là `import math` để có thể sử dụng
 
